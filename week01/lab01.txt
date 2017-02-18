@@ -1,0 +1,23 @@
+total 80
+drwxr-xr-x 18 fellita.candini StafCS 4096 Feb 18 15:33 .
+drwx--x--x  3 fellita.candini StafCS 4096 Feb 18 15:28 ..
+drwxr-xr-x  8 fellita.candini StafCS 4096 Feb 18 15:32 .git
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:17 key
+-rw-r--r--  1 fellita.candini StafCS 1298 Feb 18 15:33 lab01
+-rw-r--r--  1 fellita.candini StafCS    0 Feb 18 15:33 lab01.txt
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:17 log
+-rw-r--r--  1 fellita.candini StafCS    7 Feb 18 15:05 README.md
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:20 sandbox
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:31 week00
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:14 week01
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:14 week02
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:15 week03
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:15 week04
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:15 week05
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:15 week06
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:15 week07
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:16 week08
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:16 week09
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:16 week10
+drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:17 xtra
+/home/fasilkom/mahasiswa/f/fellita.candini/os171/week01
