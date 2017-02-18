@@ -21,3 +21,4 @@ drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:16 week09
 drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:16 week10
 drwxr-xr-x  2 fellita.candini StafCS 4096 Feb 18 15:17 xtra
 /home/fasilkom/mahasiswa/f/fellita.candini/os171/week01
+Today is date +%d\ %b\ %Y\ at\ %H:%M:%S
